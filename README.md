@@ -47,3 +47,9 @@ Host internal-host
 > hostname
 someinternalhost
 ```
+
+# VPN
+```
+bastion_IP = 62.84.119.21
+someinternalhost_IP = 10.128.0.15
+```
