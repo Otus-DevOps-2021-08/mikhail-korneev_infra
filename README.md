@@ -54,8 +54,8 @@ bastion_IP = 62.84.119.21
 someinternalhost_IP = 10.128.0.15
 ```
 
-# Deploy App
+# Deploy TestApp
 ```
-bastion_IP = 62.84.119.21
-someinternalhost_IP = 10.128.0.15
+testapp_IP = 51.250.8.27
+testapp_port = 9292
 ```
